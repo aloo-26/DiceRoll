@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    font-family: 'Merienda', cursive;
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+}
+img{
+    width: 70%;
+    height: 70%;
+}
+.diceimg{
+    width: 30%;
+    display: inline-block;
+}
+#refresh{
+    width: 100px;
+    height: 100px;
+}
